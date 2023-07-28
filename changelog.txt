@@ -1,0 +1,7 @@
+# Change Log
+
+** 2023-07-28 v1.0.0
+- Initial commit
+
+** 2023-07-28 v1.0.1
+- Added changelog.txt
